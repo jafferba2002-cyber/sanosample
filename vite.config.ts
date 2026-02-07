@@ -8,3 +8,7 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+export default defineConfig({
+  base: '/sample web page/', // Change this to your actual GitHub repo name
+  plugins: [react()],
+})
