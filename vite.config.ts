@@ -9,6 +9,6 @@ export default defineConfig({
   },
 });
 export default defineConfig({
-  base: '/sample web page/', // Change this to your actual GitHub repo name
+  base: '/sanosample/', // Change this to your actual GitHub repo name
   plugins: [react()],
 })
